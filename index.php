@@ -1,4 +1,3 @@
-﻿<?php
-	$var = "Luis"
-	echo "¡Hola :".$var."!";
+<?php
+	echo "�Hola Mundo!";
 ?>
