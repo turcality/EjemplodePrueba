@@ -1,9 +1,4 @@
-<<<<<<< HEAD
-ï»¿<?php
-	$var = "Luis";
-	echo "Â¡Hola :".$var."!";
-=======
 <?php
-	echo "¡Hola Mundo!";
->>>>>>> parent of c5d49f3... Revert "AÃ±adiendo archivo index"
+	$var = "Luis";
+	echo "¡Hola :".$var."!";
 ?>
